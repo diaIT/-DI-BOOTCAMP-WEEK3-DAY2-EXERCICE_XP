@@ -1,0 +1,35 @@
+span{
+    background-color: yellow;
+}
+.c1{
+    margin-left: 45px;
+}
+.c2{
+    text-align: center ;
+}
+.cat{
+    width: 400px;
+    border: 1px solid coral;
+    border-width: 7px;
+
+}
+.c3{
+    border: 1px solid red;
+    text-align: center;
+    color: red;
+    width: 20cm;
+    
+
+}
+table{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+ th,td{
+    border: 1px solid black;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+    
